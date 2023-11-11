@@ -1,4 +1,4 @@
-Replicated by [MKM12345](https://www.github.com/MKM12345)
+Replicated by me, [MKM12345](https://www.github.com/MKM12345).
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 13 and app template Router-ready AI chatbot." src="https://chat.vercel.ai/opengraph-image.png">
   <h1 align="center">Next.js AI Chatbot</h1>
@@ -72,4 +72,5 @@ This library is created by [Vercel](https://vercel.com) and [Next.js](https://ne
 - Jared Palmer ([@jaredpalmer](https://twitter.com/jaredpalmer)) - [Vercel](https://vercel.com)
 - Shu Ding ([@shuding\_](https://twitter.com/shuding_)) - [Vercel](https://vercel.com)
 - shadcn ([@shadcn](https://twitter.com/shadcn)) - [Vercel](https://vercel.com)
+<br>
  This ChatBot has been replicated by me, [MKM12345](https://www.github.com/MKM12345)
