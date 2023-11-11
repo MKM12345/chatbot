@@ -1,4 +1,3 @@
-Replicated by me, [MKM12345](https://www.github.com/MKM12345).
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 13 and app template Router-ready AI chatbot." src="https://chat.vercel.ai/opengraph-image.png">
   <h1 align="center">Next.js AI Chatbot</h1>
@@ -6,6 +5,8 @@ Replicated by me, [MKM12345](https://www.github.com/MKM12345).
 
 <p align="center">
   An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Vercel KV.
+  <br>
+  Replicated by me, [MKM12345](https://www.github.com/MKM12345). Crossed-checked with original code to create an extremely similar chatbot.
 </p>
 
 <p align="center">
