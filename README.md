@@ -6,7 +6,7 @@
 <p align="center">
   An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Vercel KV.
   <br>
-  Replicated by me, [MKM12345](https://www.github.com/MKM12345). Crossed-checked with original code to create an extremely similar chatbot.
+  Replicated by me, <a href="https://www.github.com/MKM12345">MKM12345</a> . Crossed-checked with original code to create an extremely similar chatbot.
 </p>
 
 <p align="center">
